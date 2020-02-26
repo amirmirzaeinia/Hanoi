@@ -3,7 +3,7 @@
 This code finds the number of moves to return a random disk distribution to first rod. 
 all the Hanoi conditions are applied.
 # R is number of rods
-# disks_distribution is an array that shows location of that disk. for example if R=3 and disks_distribution=[0,1,2], 
+# disks_distribution is an array that shows location of the disks. for example if R=3 and disks_distribution=[0,1,2], 
 #it means largest disk on rod 0, second largest on rod 1 and the smalest disk on rod 2.
 sample output for
 R=4 
